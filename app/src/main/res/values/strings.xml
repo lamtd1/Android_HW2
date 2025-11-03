@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc_zero">0</string>
+
+
+    <string name="calc_1">1</string>
+    <string name="calc_2">2</string>
+    <string name="calc_3">3</string>
+    <string name="calc_4">4</string>
+    <string name="calc_5">5</string>
+    <string name="calc_6">6</string>
+    <string name="calc_7">7</string>
+    <string name="calc_8">8</string>
+    <string name="calc_9">9</string>
+
+    <string name="calc_ce">CE</string>
+    <string name="calc_c">C</string>
+    <string name="calc_bs">BS</string>
+    <string name="calc_divide">/</string>
+    <string name="calc_multiply">x</string>
+    <string name="calc_subtract">-</string>
+    <string name="calc_add">+</string>
+    <string name="calc_sign">+/-</string>
+    <string name="calc_dot">.</string>
+    <string name="calc_equals">=</string>
+    <string name="error_division_by_zero">Error</string>
+</resources>
